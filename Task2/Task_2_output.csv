@@ -1,0 +1,1000 @@
+Document Number,Invoice Value,Department,Authorization,Conflicting Rules
+1819100458,18849,Support,No,"CRID001,CRID002,CRID003"
+1819100563,92040,Support,No,"CRID001,CRID002,CRID003"
+1819100589,187640,Support,No,"CRID001,CRID002,CRID003"
+1819100681,623,Support,No,"CRID001,CRID002,CRID003"
+1819100733,2818,Support,No,"CRID001,CRID002,CRID003"
+1819100825,83589,Support,No,"CRID001,CRID002,CRID003"
+1819100862,6064,Support,No,"CRID001,CRID002,CRID003"
+1819100881,142175,Support,No,"CRID001,CRID002,CRID003"
+1819200040,1000,Support,No,"CRID001,CRID002,CRID003"
+1819200085,194937,Support,No,"CRID001,CRID002,CRID003"
+1819200128,4140,Support,No,"CRID001,CRID002,CRID003"
+1905000309,19752,Support,No,"CRID001,CRID002,CRID003"
+1905000330,1071,Support,No,"CRID001,CRID002,CRID003"
+1907000526,1285515,Support,No,"CRID001,CRID002,CRID003"
+1907000552,408,Support,No,"CRID001,CRID002,CRID003"
+1924000094,140,Support,No,"CRID001,CRID002,CRID003"
+1927000316,638495,Support,No,"CRID001,CRID002,CRID003"
+1819100459,18849,Support,No,"CRID002,CRID003"
+1819100526,4140,Support,No,"CRID002,CRID003"
+1819100566,113292,Support,No,"CRID002,CRID003"
+1819100569,148838,Support,No,"CRID002,CRID003"
+1819100607,148838,Support,No,"CRID002,CRID003"
+1819100610,127575,Support,No,"CRID002,CRID003"
+1819100613,8614,Support,No,"CRID002,CRID003"
+1819100615,234530,Support,No,"CRID002,CRID003"
+1819100624,103923,Support,No,"CRID002,CRID003"
+1819100629,4200,Support,No,"CRID002,CRID003"
+1819100646,28615,Support,No,"CRID002,CRID003"
+1819100708,16460,Support,No,"CRID002,CRID003"
+1819100760,88146,Support,No,"CRID002,CRID003"
+1819100837,23336,Support,No,"CRID002,CRID003"
+1819100877,89127,Support,No,"CRID002,CRID003"
+1819100924,127575,Support,No,"CRID002,CRID003"
+1819200049,194937,Support,No,"CRID002,CRID003"
+1819200103,37800,Support,No,"CRID002,CRID003"
+1901000118,14058,Support,No,"CRID002,CRID003"
+1904000777,133000,Support,No,"CRID002,CRID003"
+1904000808,1804,Support,No,"CRID002,CRID003"
+1904000811,0,Support,No,"CRID002,CRID003"
+1905000313,297360,Support,No,"CRID002,CRID003"
+1905000320,358,Support,No,"CRID002,CRID003"
+1907000504,220,Support,No,"CRID002,CRID003"
+1907000560,75,Support,No,"CRID002,CRID003"
+1907000593,483210,Support,No,"CRID002,CRID003"
+1919000520,9003,Support,No,"CRID002,CRID003"
+1919000549,17903,Support,No,"CRID002,CRID003"
+1927000276,3878,Support,No,"CRID002,CRID003"
+1927000283,50,Support,No,"CRID002,CRID003"
+1927000308,106146,Support,No,"CRID002,CRID003"
+1819100527,4140,HR,Yes,No Conflicting Rules
+1819100668,78993,HR,Yes,No Conflicting Rules
+1819100702,4029,HR,Yes,No Conflicting Rules
+1819100731,251196,HR,Yes,No Conflicting Rules
+1819100736,1740,HR,Yes,No Conflicting Rules
+1819200039,6950,HR,Yes,No Conflicting Rules
+1819200115,4925,HR,Yes,No Conflicting Rules
+1905000341,2500,HR,Yes,No Conflicting Rules
+1907000539,216549,HR,Yes,No Conflicting Rules
+1907000570,9820,HR,Yes,No Conflicting Rules
+1907000581,6867,HR,Yes,No Conflicting Rules
+1919000476,171076,HR,Yes,No Conflicting Rules
+1919000505,59000,HR,Yes,No Conflicting Rules
+1919000507,136500,HR,Yes,No Conflicting Rules
+1919000533,3000,HR,Yes,No Conflicting Rules
+1919000558,72216,HR,Yes,No Conflicting Rules
+1927000273,14700,HR,Yes,No Conflicting Rules
+1819100552,2921,Support,Yes,No Conflicting Rules
+1819100588,2436,Support,Yes,No Conflicting Rules
+1819100616,229746,Support,Yes,No Conflicting Rules
+1819100652,148838,Support,Yes,No Conflicting Rules
+1819100662,95875,Support,Yes,No Conflicting Rules
+1819100739,148838,Support,Yes,No Conflicting Rules
+1819100757,296416,Support,Yes,No Conflicting Rules
+1819100764,24630,Support,Yes,No Conflicting Rules
+1819100775,148838,Support,Yes,No Conflicting Rules
+1819100792,63840,Support,Yes,No Conflicting Rules
+1819100801,22656,Support,Yes,No Conflicting Rules
+1819100827,89654,Support,Yes,No Conflicting Rules
+1819100866,107154,Support,Yes,No Conflicting Rules
+1819100882,124969,Support,Yes,No Conflicting Rules
+1904000783,8704630,Support,Yes,No Conflicting Rules
+1905000298,93355,Support,Yes,No Conflicting Rules
+1905000338,1616,Support,Yes,No Conflicting Rules
+1907000493,99120,Support,Yes,No Conflicting Rules
+1919000458,385880,Support,Yes,No Conflicting Rules
+1919000477,2416,Support,Yes,No Conflicting Rules
+1819100553,11266,Finance,No,Read-Only
+1819100574,105000,Finance,No,Read-Only
+1819100600,145040,Finance,No,Read-Only
+1819100703,14160,Finance,No,Read-Only
+1819100802,148838,Finance,No,Read-Only
+1819200048,36800,Finance,No,Read-Only
+1904000773,20916368,Finance,No,Read-Only
+1907000479,49350,Finance,No,Read-Only
+1907000495,27097,Finance,No,Read-Only
+1919000440,12390,Finance,No,Read-Only
+1919000447,60180,Finance,No,Read-Only
+1919000461,136500,Finance,No,Read-Only
+1919000473,102,Finance,No,Read-Only
+1919000493,834120,Finance,No,Read-Only
+1927000265,132300,Finance,No,Read-Only
+1927000310,21921,Finance,No,Read-Only
+1927000341,1122,Finance,No,Read-Only
+1819100554,127575,Warehouse,No,"CRID001,CRID002,CRID003"
+1819100555,826,Warehouse,No,"CRID001,CRID002,CRID003"
+1819100734,3016,Warehouse,No,"CRID001,CRID002,CRID003"
+1819100793,207187,Warehouse,No,"CRID001,CRID002,CRID003"
+1819100797,295156,Warehouse,No,"CRID001,CRID002,CRID003"
+1819100808,29232,Warehouse,No,"CRID001,CRID002,CRID003"
+1819100901,82418,Warehouse,No,"CRID001,CRID002,CRID003"
+1819100929,24897,Warehouse,No,"CRID001,CRID002,CRID003"
+1819200052,27000,Warehouse,No,"CRID001,CRID002,CRID003"
+1819200068,12378,Warehouse,No,"CRID001,CRID002,CRID003"
+1904000790,36066,Warehouse,No,"CRID001,CRID002,CRID003"
+1904000803,7876305,Warehouse,No,"CRID001,CRID002,CRID003"
+1904000806,229644,Warehouse,No,"CRID001,CRID002,CRID003"
+1907000494,888615,Warehouse,No,"CRID001,CRID002,CRID003"
+1907000554,546,Warehouse,No,"CRID001,CRID002,CRID003"
+1907000555,3870,Warehouse,No,"CRID001,CRID002,CRID003"
+1919000450,251370,Warehouse,No,"CRID001,CRID002,CRID003"
+1919000459,21240,Warehouse,No,"CRID001,CRID002,CRID003"
+1919000470,179360,Warehouse,No,"CRID001,CRID002,CRID003"
+1919000512,53100,Warehouse,No,"CRID001,CRID002,CRID003"
+1927000299,312228,Warehouse,No,"CRID001,CRID002,CRID003"
+1819100556,292004,Manufacturing,Yes,No Conflicting Rules
+1819100571,250330,Manufacturing,Yes,No Conflicting Rules
+1819100596,106313,Manufacturing,Yes,No Conflicting Rules
+1819100727,30744,Manufacturing,Yes,No Conflicting Rules
+1819100920,25134,Manufacturing,Yes,No Conflicting Rules
+1819200093,10000,Manufacturing,Yes,No Conflicting Rules
+1819200118,944,Manufacturing,Yes,No Conflicting Rules
+1904000788,50216738,Manufacturing,Yes,No Conflicting Rules
+1905000312,560000,Manufacturing,Yes,No Conflicting Rules
+1905000336,15678,Manufacturing,Yes,No Conflicting Rules
+1907000498,8640,Manufacturing,Yes,No Conflicting Rules
+1907000525,3383240,Manufacturing,Yes,No Conflicting Rules
+1919000508,7080,Manufacturing,Yes,No Conflicting Rules
+1919000544,6620,Manufacturing,Yes,No Conflicting Rules
+1919000548,407808,Manufacturing,Yes,No Conflicting Rules
+1919000557,42108,Manufacturing,Yes,No Conflicting Rules
+1924000088,2209700,Manufacturing,Yes,No Conflicting Rules
+1927000320,30645,Manufacturing,Yes,No Conflicting Rules
+1819100557,87792,Warehouse,Yes,No Conflicting Rules
+1819100585,3522204,Warehouse,Yes,No Conflicting Rules
+1819100605,102060,Warehouse,Yes,No Conflicting Rules
+1819100606,141120,Warehouse,Yes,No Conflicting Rules
+1819100637,1593,Warehouse,Yes,No Conflicting Rules
+1819100642,18213,Warehouse,Yes,No Conflicting Rules
+1819100665,41440,Warehouse,Yes,No Conflicting Rules
+1819100684,74082,Warehouse,Yes,No Conflicting Rules
+1819100685,5888,Warehouse,Yes,No Conflicting Rules
+1819100693,3250,Warehouse,Yes,No Conflicting Rules
+1819100714,16200,Warehouse,Yes,No Conflicting Rules
+1819100754,27000,Warehouse,Yes,No Conflicting Rules
+1819100758,250330,Warehouse,Yes,No Conflicting Rules
+1819100772,92550,Warehouse,Yes,No Conflicting Rules
+1819100816,412406,Warehouse,Yes,No Conflicting Rules
+1819100889,5352,Warehouse,Yes,No Conflicting Rules
+1819100896,148838,Warehouse,Yes,No Conflicting Rules
+1819100898,127575,Warehouse,Yes,No Conflicting Rules
+1819100908,2573,Warehouse,Yes,No Conflicting Rules
+1819200131,3840,Warehouse,Yes,No Conflicting Rules
+1904000807,9900,Warehouse,Yes,No Conflicting Rules
+1905000290,3186,Warehouse,Yes,No Conflicting Rules
+1905000294,1593,Warehouse,Yes,No Conflicting Rules
+1905000302,4950,Warehouse,Yes,No Conflicting Rules
+1905000304,15678,Warehouse,Yes,No Conflicting Rules
+1907000492,367290,Warehouse,Yes,No Conflicting Rules
+1907000513,14040,Warehouse,Yes,No Conflicting Rules
+1907000540,818058,Warehouse,Yes,No Conflicting Rules
+1907000553,1806,Warehouse,Yes,No Conflicting Rules
+1907000562,160,Warehouse,Yes,No Conflicting Rules
+1907000582,15925,Warehouse,Yes,No Conflicting Rules
+1907000599,11530,Warehouse,Yes,No Conflicting Rules
+1907000601,2993,Warehouse,Yes,No Conflicting Rules
+1919000442,500976,Warehouse,Yes,No Conflicting Rules
+1919000489,147450,Warehouse,Yes,No Conflicting Rules
+1919000492,78586,Warehouse,Yes,No Conflicting Rules
+1919000500,262632,Warehouse,Yes,No Conflicting Rules
+1919000502,310340,Warehouse,Yes,No Conflicting Rules
+1919000541,97940,Warehouse,Yes,No Conflicting Rules
+1924000095,138351,Warehouse,Yes,No Conflicting Rules
+1924000112,43560,Warehouse,Yes,No Conflicting Rules
+1927000294,4556,Warehouse,Yes,No Conflicting Rules
+1927000332,2254,Warehouse,Yes,No Conflicting Rules
+1819100558,21954,Warehouse,No,Read-Only
+1819100608,99036,Warehouse,No,Read-Only
+1819100664,27612,Warehouse,No,Read-Only
+1819100689,30744,Warehouse,No,Read-Only
+1819100690,19146,Warehouse,No,Read-Only
+1819100743,148838,Warehouse,No,Read-Only
+1819100782,100536,Warehouse,No,Read-Only
+1819100786,103044,Warehouse,No,Read-Only
+1819100794,41398,Warehouse,No,Read-Only
+1819100795,83750,Warehouse,No,Read-Only
+1819100819,53548,Warehouse,No,Read-Only
+1819100829,5734,Warehouse,No,Read-Only
+1819100831,21948,Warehouse,No,Read-Only
+1819100836,183750,Warehouse,No,Read-Only
+1819100923,148838,Warehouse,No,Read-Only
+1903000059,30281,Warehouse,No,Read-Only
+1904000782,17831776,Warehouse,No,Read-Only
+1905000317,15002,Warehouse,No,Read-Only
+1905000332,91,Warehouse,No,Read-Only
+1907000497,11560,Warehouse,No,Read-Only
+1907000501,1224,Warehouse,No,Read-Only
+1907000518,1449630,Warehouse,No,Read-Only
+1907000538,519750,Warehouse,No,Read-Only
+1907000542,21525,Warehouse,No,Read-Only
+1907000557,1882,Warehouse,No,Read-Only
+1907000598,17842,Warehouse,No,Read-Only
+1919000441,175820,Warehouse,No,Read-Only
+1919000466,108324,Warehouse,No,Read-Only
+1919000482,11107,Warehouse,No,Read-Only
+1919000523,84360,Warehouse,No,Read-Only
+1919000525,9892,Warehouse,No,Read-Only
+1919000556,312066,Warehouse,No,Read-Only
+1927000268,185220,Warehouse,No,Read-Only
+1819100559,148838,HR,Yes,No Conflicting Rules
+1819100603,641259,HR,Yes,No Conflicting Rules
+1819100623,5232,HR,Yes,No Conflicting Rules
+1819100669,94704,HR,Yes,No Conflicting Rules
+1819100670,2150,HR,Yes,No Conflicting Rules
+1819100704,1120,HR,Yes,No Conflicting Rules
+1819100773,2561,HR,Yes,No Conflicting Rules
+1819100834,3689,HR,Yes,No Conflicting Rules
+1819100875,19785,HR,Yes,No Conflicting Rules
+1819100903,60278,HR,Yes,No Conflicting Rules
+1819200105,76305,HR,Yes,No Conflicting Rules
+1904000770,23883,HR,Yes,No Conflicting Rules
+1905000275,14472,HR,Yes,No Conflicting Rules
+1905000289,4230,HR,Yes,No Conflicting Rules
+1905000297,400911,HR,Yes,No Conflicting Rules
+1905000301,19036,HR,Yes,No Conflicting Rules
+1905000311,105840,HR,Yes,No Conflicting Rules
+1907000600,16542,HR,Yes,No Conflicting Rules
+1919000487,42108,HR,Yes,No Conflicting Rules
+1919000515,278453,HR,Yes,No Conflicting Rules
+1927000256,64575,HR,Yes,No Conflicting Rules
+1927000286,7542,HR,Yes,No Conflicting Rules
+1927000289,91008,HR,Yes,No Conflicting Rules
+1819100560,14297,HR,Yes,No Conflicting Rules
+1819100561,148838,HR,Yes,No Conflicting Rules
+1819100591,325680,HR,Yes,No Conflicting Rules
+1819100649,55012,HR,Yes,No Conflicting Rules
+1819100676,561,HR,Yes,No Conflicting Rules
+1819100699,4720,HR,Yes,No Conflicting Rules
+1819100759,8184,HR,Yes,No Conflicting Rules
+1819100781,127575,HR,Yes,No Conflicting Rules
+1819100830,136080,HR,Yes,No Conflicting Rules
+1819100839,148838,HR,Yes,No Conflicting Rules
+1819100870,2350,HR,Yes,No Conflicting Rules
+1819100888,252630,HR,Yes,No Conflicting Rules
+1819100906,4810,HR,Yes,No Conflicting Rules
+1819100907,5711,HR,Yes,No Conflicting Rules
+1819200054,250,HR,Yes,No Conflicting Rules
+1819200087,726327,HR,Yes,No Conflicting Rules
+1904000809,1804,HR,Yes,No Conflicting Rules
+1905000276,15678,HR,Yes,No Conflicting Rules
+1905000280,15080,HR,Yes,No Conflicting Rules
+1907000514,20275,HR,Yes,No Conflicting Rules
+1919000472,2220,HR,Yes,No Conflicting Rules
+1924000092,33,HR,Yes,No Conflicting Rules
+1924000093,58425,HR,Yes,No Conflicting Rules
+1924000098,409500,HR,Yes,No Conflicting Rules
+1927000323,693,HR,Yes,No Conflicting Rules
+1819100562,21240,Manufacturing,No,"CRID001,CRID002,CRID003"
+1819100581,51920,Manufacturing,No,"CRID001,CRID002,CRID003"
+1819100765,25824,Manufacturing,No,"CRID001,CRID002,CRID003"
+1819100826,112320,Manufacturing,No,"CRID001,CRID002,CRID003"
+1819100843,47694,Manufacturing,No,"CRID001,CRID002,CRID003"
+1819100844,20720,Manufacturing,No,"CRID001,CRID002,CRID003"
+1819100894,250800,Manufacturing,No,"CRID001,CRID002,CRID003"
+1819200058,17500,Manufacturing,No,"CRID001,CRID002,CRID003"
+1819200084,56000,Manufacturing,No,"CRID001,CRID002,CRID003"
+1819200095,5350,Manufacturing,No,"CRID001,CRID002,CRID003"
+1907000510,18277,Manufacturing,No,"CRID001,CRID002,CRID003"
+1907000528,569940,Manufacturing,No,"CRID001,CRID002,CRID003"
+1907000547,166672,Manufacturing,No,"CRID001,CRID002,CRID003"
+1919000452,148428,Manufacturing,No,"CRID001,CRID002,CRID003"
+1927000259,269325,Manufacturing,No,"CRID001,CRID002,CRID003"
+1819100564,127575,Support,Yes,No Conflicting Rules
+1819100618,14504,Support,Yes,No Conflicting Rules
+1819100630,287055,Support,Yes,No Conflicting Rules
+1819100644,5258,Support,Yes,No Conflicting Rules
+1819100667,5630,Support,Yes,No Conflicting Rules
+1819100697,41916,Support,Yes,No Conflicting Rules
+1819100749,11736,Support,Yes,No Conflicting Rules
+1819100800,473948,Support,Yes,No Conflicting Rules
+1819100838,127575,Support,Yes,No Conflicting Rules
+1819100846,4956,Support,Yes,No Conflicting Rules
+1819100884,141895,Support,Yes,No Conflicting Rules
+1819200051,1700,Support,Yes,No Conflicting Rules
+1819200079,850,Support,Yes,No Conflicting Rules
+1819200120,928,Support,Yes,No Conflicting Rules
+1819200129,4140,Support,Yes,No Conflicting Rules
+1907000522,6300,Support,Yes,No Conflicting Rules
+1907000602,96424,Support,Yes,No Conflicting Rules
+1919000480,558,Support,Yes,No Conflicting Rules
+1919000488,42108,Support,Yes,No Conflicting Rules
+1919000518,5509,Support,Yes,No Conflicting Rules
+1819100565,264002,Finance,Yes,No Conflicting Rules
+1819100694,2616,Finance,Yes,No Conflicting Rules
+1819100811,10765,Finance,Yes,No Conflicting Rules
+1819100845,4200,Finance,Yes,No Conflicting Rules
+1819100859,73713,Finance,Yes,No Conflicting Rules
+1819200057,780,Finance,Yes,No Conflicting Rules
+1819200117,53662,Finance,Yes,No Conflicting Rules
+1919000446,10266,Finance,Yes,No Conflicting Rules
+1919000465,12390,Finance,Yes,No Conflicting Rules
+1919000532,6750,Finance,Yes,No Conflicting Rules
+1924000113,4556,Finance,Yes,No Conflicting Rules
+1927000311,2160,Finance,Yes,No Conflicting Rules
+1819100567,262870,Warehouse,Yes,No Conflicting Rules
+1819100626,5900,Warehouse,Yes,No Conflicting Rules
+1819100639,4990,Warehouse,Yes,No Conflicting Rules
+1819100672,1512,Warehouse,Yes,No Conflicting Rules
+1819100687,1200,Warehouse,Yes,No Conflicting Rules
+1819100710,33012,Warehouse,Yes,No Conflicting Rules
+1819100718,45784,Warehouse,Yes,No Conflicting Rules
+1819100763,25001,Warehouse,Yes,No Conflicting Rules
+1819100853,7587,Warehouse,Yes,No Conflicting Rules
+1819100937,23010,Warehouse,Yes,No Conflicting Rules
+1819200126,7200,Warehouse,Yes,No Conflicting Rules
+1819200134,18036,Warehouse,Yes,No Conflicting Rules
+1905000310,1859,Warehouse,Yes,No Conflicting Rules
+1907000527,805350,Warehouse,Yes,No Conflicting Rules
+1907000536,440748,Warehouse,Yes,No Conflicting Rules
+1907000543,236250,Warehouse,Yes,No Conflicting Rules
+1907000610,70875,Warehouse,Yes,No Conflicting Rules
+1919000464,59000,Warehouse,Yes,No Conflicting Rules
+1919000471,5601,Warehouse,Yes,No Conflicting Rules
+1924000109,48935,Warehouse,Yes,No Conflicting Rules
+1927000290,1116,Warehouse,Yes,No Conflicting Rules
+1927000291,45,Warehouse,Yes,No Conflicting Rules
+1927000334,622,Warehouse,Yes,No Conflicting Rules
+1927000340,2275,Warehouse,Yes,No Conflicting Rules
+1819100568,104784,Warehouse,Yes,No Conflicting Rules
+1819100579,85439,Warehouse,Yes,No Conflicting Rules
+1819100580,78048,Warehouse,Yes,No Conflicting Rules
+1819100582,28058,Warehouse,Yes,No Conflicting Rules
+1819100586,144428,Warehouse,Yes,No Conflicting Rules
+1819100595,6372,Warehouse,Yes,No Conflicting Rules
+1819100651,148838,Warehouse,Yes,No Conflicting Rules
+1819100659,23552,Warehouse,Yes,No Conflicting Rules
+1819100666,1653116,Warehouse,Yes,No Conflicting Rules
+1819100688,2750,Warehouse,Yes,No Conflicting Rules
+1819100701,12936,Warehouse,Yes,No Conflicting Rules
+1819100725,3232,Warehouse,Yes,No Conflicting Rules
+1819100751,16666,Warehouse,Yes,No Conflicting Rules
+1819100762,73863,Warehouse,Yes,No Conflicting Rules
+1819100766,74112,Warehouse,Yes,No Conflicting Rules
+1819100788,41265,Warehouse,Yes,No Conflicting Rules
+1819100796,251370,Warehouse,Yes,No Conflicting Rules
+1819100818,375,Warehouse,Yes,No Conflicting Rules
+1819100835,148838,Warehouse,Yes,No Conflicting Rules
+1819100861,40878,Warehouse,Yes,No Conflicting Rules
+1819100864,8299,Warehouse,Yes,No Conflicting Rules
+1819100871,14160,Warehouse,Yes,No Conflicting Rules
+1819100886,5458,Warehouse,Yes,No Conflicting Rules
+1819100900,29303,Warehouse,Yes,No Conflicting Rules
+1819100941,91350,Warehouse,Yes,No Conflicting Rules
+1819200045,13950,Warehouse,Yes,No Conflicting Rules
+1819200060,3900,Warehouse,Yes,No Conflicting Rules
+1819200076,10650,Warehouse,Yes,No Conflicting Rules
+1819200083,9129,Warehouse,Yes,No Conflicting Rules
+1819200099,30975,Warehouse,Yes,No Conflicting Rules
+1819200124,10620,Warehouse,Yes,No Conflicting Rules
+1904000784,908601,Warehouse,Yes,No Conflicting Rules
+1904000787,45000,Warehouse,Yes,No Conflicting Rules
+1904000793,0,Warehouse,Yes,No Conflicting Rules
+1904000797,30699396,Warehouse,Yes,No Conflicting Rules
+1904000800,45000,Warehouse,Yes,No Conflicting Rules
+1904000802,20381600,Warehouse,Yes,No Conflicting Rules
+1904000812,30460950,Warehouse,Yes,No Conflicting Rules
+1904000817,8871,Warehouse,Yes,No Conflicting Rules
+1905000291,6750,Warehouse,Yes,No Conflicting Rules
+1905000316,1543,Warehouse,Yes,No Conflicting Rules
+1907000476,667128,Warehouse,Yes,No Conflicting Rules
+1907000481,234360,Warehouse,Yes,No Conflicting Rules
+1907000500,9180,Warehouse,Yes,No Conflicting Rules
+1907000532,5670,Warehouse,Yes,No Conflicting Rules
+1907000533,888174,Warehouse,Yes,No Conflicting Rules
+1907000534,717990,Warehouse,Yes,No Conflicting Rules
+1907000545,113118,Warehouse,Yes,No Conflicting Rules
+1907000575,471,Warehouse,Yes,No Conflicting Rules
+1907000588,141120,Warehouse,Yes,No Conflicting Rules
+1907000590,227032,Warehouse,Yes,No Conflicting Rules
+1907000592,14175,Warehouse,Yes,No Conflicting Rules
+1907000605,10402,Warehouse,Yes,No Conflicting Rules
+1919000430,13375,Warehouse,Yes,No Conflicting Rules
+1919000460,691480,Warehouse,Yes,No Conflicting Rules
+1919000490,501912,Warehouse,Yes,No Conflicting Rules
+1919000491,1037928,Warehouse,Yes,No Conflicting Rules
+1919000497,31152,Warehouse,Yes,No Conflicting Rules
+1919000563,16658,Warehouse,Yes,No Conflicting Rules
+1927000305,1875000,Warehouse,Yes,No Conflicting Rules
+1927000314,4023,Warehouse,Yes,No Conflicting Rules
+1927000315,2837,Warehouse,Yes,No Conflicting Rules
+1927000338,14927,Warehouse,Yes,No Conflicting Rules
+1819100570,234027,Support,No,"No Authorization,CRID001,CRID003"
+1819100656,114818,Support,No,"No Authorization,CRID001,CRID003"
+1819100700,4720,Support,No,"No Authorization,CRID001,CRID003"
+1819100728,19146,Support,No,"No Authorization,CRID001,CRID003"
+1819100812,28207,Support,No,"No Authorization,CRID001,CRID003"
+1819100815,4319,Support,No,"No Authorization,CRID001,CRID003"
+1819100893,122831,Support,No,"No Authorization,CRID001,CRID003"
+1819100572,263066,Manufacturing,No,Read-Only
+1819100625,9676,Manufacturing,No,Read-Only
+1819100855,6020,Manufacturing,No,Read-Only
+1819100895,296668,Manufacturing,No,Read-Only
+1819200097,30711,Manufacturing,No,Read-Only
+1905000285,272160,Manufacturing,No,Read-Only
+1907000491,297045,Manufacturing,No,Read-Only
+1907000609,430920,Manufacturing,No,Read-Only
+1919000559,297360,Manufacturing,No,Read-Only
+1819100573,515690,Manufacturing,Yes,No Conflicting Rules
+1819100575,106313,Manufacturing,Yes,No Conflicting Rules
+1819100680,17997,Manufacturing,Yes,No Conflicting Rules
+1819100696,7198,Manufacturing,Yes,No Conflicting Rules
+1819100716,1110,Manufacturing,Yes,No Conflicting Rules
+1819100744,146268,Manufacturing,Yes,No Conflicting Rules
+1819100897,148838,Manufacturing,Yes,No Conflicting Rules
+1819100939,79544,Manufacturing,Yes,No Conflicting Rules
+1819200069,23880,Manufacturing,Yes,No Conflicting Rules
+1819200130,2930,Manufacturing,Yes,No Conflicting Rules
+1901000120,3150,Manufacturing,Yes,No Conflicting Rules
+1905000287,37170,Manufacturing,Yes,No Conflicting Rules
+1905000308,24368,Manufacturing,Yes,No Conflicting Rules
+1905000344,6687,Manufacturing,Yes,No Conflicting Rules
+1907000488,418227,Manufacturing,Yes,No Conflicting Rules
+1907000502,228,Manufacturing,Yes,No Conflicting Rules
+1919000469,0,Manufacturing,Yes,No Conflicting Rules
+1919000483,37064,Manufacturing,Yes,No Conflicting Rules
+1919000485,6750,Manufacturing,Yes,No Conflicting Rules
+1927000260,1667424,Manufacturing,Yes,No Conflicting Rules
+1927000307,2579,Manufacturing,Yes,No Conflicting Rules
+1927000335,11814,Manufacturing,Yes,No Conflicting Rules
+1819100576,32982,Warehouse,No,"No Authorization,CRID002"
+1819100682,13198,Warehouse,No,"No Authorization,CRID002"
+1819100691,61717,Warehouse,No,"No Authorization,CRID002"
+1819100740,3894,Warehouse,No,"No Authorization,CRID002"
+1819100803,11480,Warehouse,No,"No Authorization,CRID002"
+1819100820,10962,Warehouse,No,"No Authorization,CRID002"
+1819100865,59336,Warehouse,No,"No Authorization,CRID002"
+1819100873,167307,Warehouse,No,"No Authorization,CRID002"
+1819100892,9742,Warehouse,No,"No Authorization,CRID002"
+1819100902,84823,Warehouse,No,"No Authorization,CRID002"
+1819100905,8352,Warehouse,No,"No Authorization,CRID002"
+1819100921,15458,Warehouse,No,"No Authorization,CRID002"
+1819100926,52695,Warehouse,No,"No Authorization,CRID002"
+1819200047,12500,Warehouse,No,"No Authorization,CRID002"
+1819200091,315556,Warehouse,No,"No Authorization,CRID002"
+1819200110,3870,Warehouse,No,"No Authorization,CRID002"
+1901000117,9999,Warehouse,No,"No Authorization,CRID002"
+1904000771,6100,Warehouse,No,"No Authorization,CRID002"
+1904000805,28433,Warehouse,No,"No Authorization,CRID002"
+1905000024,10000,Warehouse,No,"No Authorization,CRID002"
+1907000490,708750,Warehouse,No,"No Authorization,CRID002"
+1907000524,574560,Warehouse,No,"No Authorization,CRID002"
+1907000535,288225,Warehouse,No,"No Authorization,CRID002"
+1907000558,7740,Warehouse,No,"No Authorization,CRID002"
+1907000563,5573008,Warehouse,No,"No Authorization,CRID002"
+1907000577,69660,Warehouse,No,"No Authorization,CRID002"
+1907000591,100416,Warehouse,No,"No Authorization,CRID002"
+1907000597,161700,Warehouse,No,"No Authorization,CRID002"
+1919000456,530292,Warehouse,No,"No Authorization,CRID002"
+1919000494,10266,Warehouse,No,"No Authorization,CRID002"
+1919000510,54610,Warehouse,No,"No Authorization,CRID002"
+1924000089,169260,Warehouse,No,"No Authorization,CRID002"
+1924000097,2388750,Warehouse,No,"No Authorization,CRID002"
+1924000104,2311,Warehouse,No,"No Authorization,CRID002"
+1924000110,1302,Warehouse,No,"No Authorization,CRID002"
+1927000263,6055,Warehouse,No,"No Authorization,CRID002"
+1927000269,452815,Warehouse,No,"No Authorization,CRID002"
+1927000309,7683,Warehouse,No,"No Authorization,CRID002"
+1819100577,250800,HR,Yes,No Conflicting Rules
+1819100641,817470,HR,Yes,No Conflicting Rules
+1819100723,110250,HR,Yes,No Conflicting Rules
+1819100748,2991090,HR,Yes,No Conflicting Rules
+1819100913,18172,HR,Yes,No Conflicting Rules
+1819200090,53662,HR,Yes,No Conflicting Rules
+1819200113,11373,HR,Yes,No Conflicting Rules
+1904000779,1053616,HR,Yes,No Conflicting Rules
+1904000801,0,HR,Yes,No Conflicting Rules
+1907000509,43470,HR,Yes,No Conflicting Rules
+1919000564,891,HR,Yes,No Conflicting Rules
+1924000106,605,HR,Yes,No Conflicting Rules
+1927000257,9829,HR,Yes,No Conflicting Rules
+1927000345,10700,HR,Yes,No Conflicting Rules
+1819100578,148838,Manufacturing,Yes,No Conflicting Rules
+1819100604,140333,Manufacturing,Yes,No Conflicting Rules
+1819100729,30744,Manufacturing,Yes,No Conflicting Rules
+1819100768,49701,Manufacturing,Yes,No Conflicting Rules
+1819100789,471762,Manufacturing,Yes,No Conflicting Rules
+1819100850,9206,Manufacturing,Yes,No Conflicting Rules
+1819100927,91578,Manufacturing,Yes,No Conflicting Rules
+1904000775,0,Manufacturing,Yes,No Conflicting Rules
+1904000791,4802,Manufacturing,Yes,No Conflicting Rules
+1904000799,15526372,Manufacturing,Yes,No Conflicting Rules
+1905000279,168000,Manufacturing,Yes,No Conflicting Rules
+1907000474,43470,Manufacturing,Yes,No Conflicting Rules
+1907000505,5000400,Manufacturing,Yes,No Conflicting Rules
+1919000479,842,Manufacturing,Yes,No Conflicting Rules
+1919000486,42108,Manufacturing,Yes,No Conflicting Rules
+1927000284,159733,Manufacturing,Yes,No Conflicting Rules
+1927000287,4788,Manufacturing,Yes,No Conflicting Rules
+1927000321,631,Manufacturing,Yes,No Conflicting Rules
+1927000327,161595,Manufacturing,Yes,No Conflicting Rules
+1929000399,59400,Manufacturing,Yes,No Conflicting Rules
+1819100583,6479,Manufacturing,Yes,No Conflicting Rules
+1819100587,5770,Manufacturing,Yes,No Conflicting Rules
+1819100597,21240,Manufacturing,Yes,No Conflicting Rules
+1819100611,7670,Manufacturing,Yes,No Conflicting Rules
+1819100647,5820,Manufacturing,Yes,No Conflicting Rules
+1819100655,148838,Manufacturing,Yes,No Conflicting Rules
+1819100674,6048,Manufacturing,Yes,No Conflicting Rules
+1819100675,507,Manufacturing,Yes,No Conflicting Rules
+1819100707,50066,Manufacturing,Yes,No Conflicting Rules
+1819100713,9676,Manufacturing,Yes,No Conflicting Rules
+1819100737,31860,Manufacturing,Yes,No Conflicting Rules
+1819100770,1048566,Manufacturing,Yes,No Conflicting Rules
+1819100774,3888,Manufacturing,Yes,No Conflicting Rules
+1819100778,58464,Manufacturing,Yes,No Conflicting Rules
+1819100779,65003,Manufacturing,Yes,No Conflicting Rules
+1819100783,127575,Manufacturing,Yes,No Conflicting Rules
+1819100799,31080,Manufacturing,Yes,No Conflicting Rules
+1819100814,38409,Manufacturing,Yes,No Conflicting Rules
+1819100854,5043,Manufacturing,Yes,No Conflicting Rules
+1819100916,3021,Manufacturing,Yes,No Conflicting Rules
+1819100928,1860,Manufacturing,Yes,No Conflicting Rules
+1819100935,125685,Manufacturing,Yes,No Conflicting Rules
+1819100936,290872,Manufacturing,Yes,No Conflicting Rules
+1819200062,6765,Manufacturing,Yes,No Conflicting Rules
+1819200080,8496,Manufacturing,Yes,No Conflicting Rules
+1819200081,944,Manufacturing,Yes,No Conflicting Rules
+1819200106,15000,Manufacturing,Yes,No Conflicting Rules
+1904000794,533288,Manufacturing,Yes,No Conflicting Rules
+1905000315,16125,Manufacturing,Yes,No Conflicting Rules
+1905000325,422009,Manufacturing,Yes,No Conflicting Rules
+1907000482,67200,Manufacturing,Yes,No Conflicting Rules
+1907000484,31763,Manufacturing,Yes,No Conflicting Rules
+1907000485,1297170,Manufacturing,Yes,No Conflicting Rules
+1907000520,86100,Manufacturing,Yes,No Conflicting Rules
+1907000564,92010,Manufacturing,Yes,No Conflicting Rules
+1907000607,6028,Manufacturing,Yes,No Conflicting Rules
+1919000463,979,Manufacturing,Yes,No Conflicting Rules
+1919000474,632,Manufacturing,Yes,No Conflicting Rules
+1919000481,12815,Manufacturing,Yes,No Conflicting Rules
+1919000516,181140,Manufacturing,Yes,No Conflicting Rules
+1919000519,1612,Manufacturing,Yes,No Conflicting Rules
+1919000553,13781,Manufacturing,Yes,No Conflicting Rules
+1924000102,29028,Manufacturing,Yes,No Conflicting Rules
+1927000261,4283,Manufacturing,Yes,No Conflicting Rules
+1927000267,17955,Manufacturing,Yes,No Conflicting Rules
+1927000270,108360,Manufacturing,Yes,No Conflicting Rules
+1927000279,5216,Manufacturing,Yes,No Conflicting Rules
+1819100584,123795,Support,Yes,No Conflicting Rules
+1819100593,1474,Support,Yes,No Conflicting Rules
+1819100852,4301,Support,Yes,No Conflicting Rules
+1819100874,167307,Support,Yes,No Conflicting Rules
+1819200111,33994,Support,Yes,No Conflicting Rules
+1819200114,9940,Support,Yes,No Conflicting Rules
+1905000318,1075,Support,Yes,No Conflicting Rules
+1905000323,7918,Support,Yes,No Conflicting Rules
+1905000331,18951,Support,Yes,No Conflicting Rules
+1905000334,706,Support,Yes,No Conflicting Rules
+1907000548,128346,Support,Yes,No Conflicting Rules
+1919000439,42108,Support,Yes,No Conflicting Rules
+1919000443,149755,Support,Yes,No Conflicting Rules
+1919000506,259875,Support,Yes,No Conflicting Rules
+1927000266,58800,Support,Yes,No Conflicting Rules
+1927000318,7832,Support,Yes,No Conflicting Rules
+1819100590,148838,Manufacturing,Yes,No Conflicting Rules
+1819100601,122080,Manufacturing,Yes,No Conflicting Rules
+1819100709,6800,Manufacturing,Yes,No Conflicting Rules
+1819100712,18172,Manufacturing,Yes,No Conflicting Rules
+1819100717,1500,Manufacturing,Yes,No Conflicting Rules
+1819100726,10480,Manufacturing,Yes,No Conflicting Rules
+1819100741,1512,Manufacturing,Yes,No Conflicting Rules
+1819100752,290872,Manufacturing,Yes,No Conflicting Rules
+1819100805,40607,Manufacturing,Yes,No Conflicting Rules
+1907000521,102347,Manufacturing,Yes,No Conflicting Rules
+1907000541,792960,Manufacturing,Yes,No Conflicting Rules
+1907000565,32682,Manufacturing,Yes,No Conflicting Rules
+1919000436,175820,Manufacturing,Yes,No Conflicting Rules
+1919000540,10620,Manufacturing,Yes,No Conflicting Rules
+1919000551,204,Manufacturing,Yes,No Conflicting Rules
+1919000555,11107,Manufacturing,Yes,No Conflicting Rules
+1924000090,30450,Manufacturing,Yes,No Conflicting Rules
+1927000330,42315,Manufacturing,Yes,No Conflicting Rules
+1819100592,9432,HR,Yes,No Conflicting Rules
+1819100621,44132,HR,Yes,No Conflicting Rules
+1819100657,5015,HR,Yes,No Conflicting Rules
+1819100661,15611,HR,Yes,No Conflicting Rules
+1819100698,4720,HR,Yes,No Conflicting Rules
+1819100746,6552,HR,Yes,No Conflicting Rules
+1819100798,95227,HR,Yes,No Conflicting Rules
+1819100858,190925,HR,Yes,No Conflicting Rules
+1819100899,127575,HR,Yes,No Conflicting Rules
+1819200044,0,HR,Yes,No Conflicting Rules
+1819200074,1650,HR,Yes,No Conflicting Rules
+1819200102,68931,HR,Yes,No Conflicting Rules
+1819200119,8496,HR,Yes,No Conflicting Rules
+1819200125,10835,HR,Yes,No Conflicting Rules
+1819200132,16716,HR,Yes,No Conflicting Rules
+1819200135,24630,HR,Yes,No Conflicting Rules
+1904000781,7713251,HR,Yes,No Conflicting Rules
+1904000786,7041,HR,Yes,No Conflicting Rules
+1904000789,28433,HR,Yes,No Conflicting Rules
+1904000810,28433,HR,Yes,No Conflicting Rules
+1904000815,14431228,HR,Yes,No Conflicting Rules
+1905000300,8136,HR,Yes,No Conflicting Rules
+1905000314,59472,HR,Yes,No Conflicting Rules
+1905000329,3132,HR,Yes,No Conflicting Rules
+1905000339,2124,HR,Yes,No Conflicting Rules
+1919000437,191160,HR,Yes,No Conflicting Rules
+1919000475,49896,HR,Yes,No Conflicting Rules
+1919000530,13375,HR,Yes,No Conflicting Rules
+1919000550,561,HR,Yes,No Conflicting Rules
+1919000554,112554,HR,Yes,No Conflicting Rules
+1924000108,14,HR,Yes,No Conflicting Rules
+1927000303,0,HR,Yes,No Conflicting Rules
+1927000337,239400,HR,Yes,No Conflicting Rules
+1927000342,1019,HR,Yes,No Conflicting Rules
+1819100594,56444,Manufacturing,Yes,No Conflicting Rules
+1819100638,18561,Manufacturing,Yes,No Conflicting Rules
+1819100640,4140,Manufacturing,Yes,No Conflicting Rules
+1819100767,6555,Manufacturing,Yes,No Conflicting Rules
+1819100784,36260,Manufacturing,Yes,No Conflicting Rules
+1819200064,705,Manufacturing,Yes,No Conflicting Rules
+1904000792,178200,Manufacturing,Yes,No Conflicting Rules
+1905000306,5027,Manufacturing,Yes,No Conflicting Rules
+1907000515,52855,Manufacturing,Yes,No Conflicting Rules
+1907000604,791154,Manufacturing,Yes,No Conflicting Rules
+1919000454,179360,Manufacturing,Yes,No Conflicting Rules
+1919000531,57002,Manufacturing,Yes,No Conflicting Rules
+1927000325,474,Manufacturing,Yes,No Conflicting Rules
+1927000336,274892,Manufacturing,Yes,No Conflicting Rules
+1819100598,35696,Warehouse,No,CRID003
+1819100631,20117,Warehouse,No,CRID003
+1819100695,6648,Warehouse,No,CRID003
+1819100807,188160,Warehouse,No,CRID003
+1819100824,103163,Warehouse,No,CRID003
+1819100841,161070,Warehouse,No,CRID003
+1819100842,6372,Warehouse,No,CRID003
+1819100917,116478,Warehouse,No,CRID003
+1819200070,6160,Warehouse,No,CRID003
+1819200100,2209,Warehouse,No,CRID003
+1904000785,3553292,Warehouse,No,CRID003
+1904000795,2033412,Warehouse,No,CRID003
+1905000282,261,Warehouse,No,CRID003
+1905000307,57750,Warehouse,No,CRID003
+1907000546,5900,Warehouse,No,CRID003
+1907000578,36180,Warehouse,No,CRID003
+1919000462,0,Warehouse,No,CRID003
+1919000468,17110,Warehouse,No,CRID003
+1919000517,1044,Warehouse,No,CRID003
+1919000536,3241,Warehouse,No,CRID003
+1919000562,9000,Warehouse,No,CRID003
+1924000099,123900,Warehouse,No,CRID003
+1924000107,4860,Warehouse,No,CRID003
+1927000255,28728,Warehouse,No,CRID003
+1927000275,0,Warehouse,No,CRID003
+1927000300,175896,Warehouse,No,CRID003
+1819100599,15611,Manufacturing,Yes,No Conflicting Rules
+1819100677,460596,Manufacturing,Yes,No Conflicting Rules
+1819100809,114818,Manufacturing,Yes,No Conflicting Rules
+1819100856,7288,Manufacturing,Yes,No Conflicting Rules
+1819200055,16670,Manufacturing,Yes,No Conflicting Rules
+1819200063,24660,Manufacturing,Yes,No Conflicting Rules
+1819200086,194937,Manufacturing,Yes,No Conflicting Rules
+1819200122,54124,Manufacturing,Yes,No Conflicting Rules
+1904000798,1925247,Manufacturing,Yes,No Conflicting Rules
+1905000299,213108,Manufacturing,Yes,No Conflicting Rules
+1907000583,93713,Manufacturing,Yes,No Conflicting Rules
+1907000584,107982,Manufacturing,Yes,No Conflicting Rules
+1919000538,31860,Manufacturing,Yes,No Conflicting Rules
+1927000322,599,Manufacturing,Yes,No Conflicting Rules
+1819100602,68040,Support,Yes,No Conflicting Rules
+1819100609,331192,Support,Yes,No Conflicting Rules
+1819100620,32214,Support,Yes,No Conflicting Rules
+1819100776,127575,Support,Yes,No Conflicting Rules
+1819100867,926878,Support,Yes,No Conflicting Rules
+1819100934,0,Support,Yes,No Conflicting Rules
+1819200066,16461,Support,Yes,No Conflicting Rules
+1819200101,1082259,Support,Yes,No Conflicting Rules
+1819200104,1534458,Support,Yes,No Conflicting Rules
+1904000774,20066504,Support,Yes,No Conflicting Rules
+1905000319,223030,Support,Yes,No Conflicting Rules
+1907000475,14239,Support,Yes,No Conflicting Rules
+1907000487,14040,Support,Yes,No Conflicting Rules
+1907000496,820,Support,Yes,No Conflicting Rules
+1907000568,145100,Support,Yes,No Conflicting Rules
+1907000606,22318,Support,Yes,No Conflicting Rules
+1919000453,451704,Support,Yes,No Conflicting Rules
+1919000457,84960,Support,Yes,No Conflicting Rules
+1919000529,100,Support,Yes,No Conflicting Rules
+1919000543,461616,Support,Yes,No Conflicting Rules
+1924000085,1017,Support,Yes,No Conflicting Rules
+1927000296,1325,Support,Yes,No Conflicting Rules
+1819100612,6195,Support,Yes,No Conflicting Rules
+1819100617,183750,Support,Yes,No Conflicting Rules
+1819100678,13629,Support,Yes,No Conflicting Rules
+1819100732,19785,Support,Yes,No Conflicting Rules
+1819100756,250800,Support,Yes,No Conflicting Rules
+1819100787,169906,Support,Yes,No Conflicting Rules
+1819200043,340575,Support,Yes,No Conflicting Rules
+1819200061,28350,Support,Yes,No Conflicting Rules
+1819200067,3579,Support,Yes,No Conflicting Rules
+1819200075,119664,Support,Yes,No Conflicting Rules
+1819200107,354639,Support,Yes,No Conflicting Rules
+1905000278,35840,Support,Yes,No Conflicting Rules
+1905000281,11972,Support,Yes,No Conflicting Rules
+1905000327,2475,Support,Yes,No Conflicting Rules
+1907000516,301350,Support,Yes,No Conflicting Rules
+1907000519,26195,Support,Yes,No Conflicting Rules
+1907000530,30240,Support,Yes,No Conflicting Rules
+1907000556,5976,Support,Yes,No Conflicting Rules
+1919000467,26550,Support,Yes,No Conflicting Rules
+1919000504,39176,Support,Yes,No Conflicting Rules
+1927000271,25200,Support,Yes,No Conflicting Rules
+1927000312,3060,Support,Yes,No Conflicting Rules
+1819100614,9984,HR,Yes,No Conflicting Rules
+1819100636,117976,HR,Yes,No Conflicting Rules
+1819100686,697,HR,Yes,No Conflicting Rules
+1819100724,2747,HR,Yes,No Conflicting Rules
+1819100742,2362,HR,Yes,No Conflicting Rules
+1819100822,37078,HR,Yes,No Conflicting Rules
+1819100832,110565,HR,Yes,No Conflicting Rules
+1819100849,2772,HR,Yes,No Conflicting Rules
+1819100915,25606,HR,Yes,No Conflicting Rules
+1904000776,0,HR,Yes,No Conflicting Rules
+1904000796,29921619,HR,Yes,No Conflicting Rules
+1905000288,112224,HR,Yes,No Conflicting Rules
+1907000586,547563,HR,Yes,No Conflicting Rules
+1919000498,622390,HR,Yes,No Conflicting Rules
+1919000534,6750,HR,Yes,No Conflicting Rules
+1919000545,366390,HR,Yes,No Conflicting Rules
+1924000101,49796,HR,Yes,No Conflicting Rules
+1927000264,13119,HR,Yes,No Conflicting Rules
+1819100619,54280,Support,Yes,No Conflicting Rules
+1819100633,10500,Support,Yes,No Conflicting Rules
+1819100658,7455,Support,Yes,No Conflicting Rules
+1819100671,6010,Support,Yes,No Conflicting Rules
+1819100735,2610,Support,Yes,No Conflicting Rules
+1819200053,20000,Support,Yes,No Conflicting Rules
+1819200056,10500,Support,Yes,No Conflicting Rules
+1819200108,1082259,Support,Yes,No Conflicting Rules
+1905000295,6787,Support,Yes,No Conflicting Rules
+1905000328,52362,Support,Yes,No Conflicting Rules
+1907000508,25710,Support,Yes,No Conflicting Rules
+1907000574,605,Support,Yes,No Conflicting Rules
+1907000576,471,Support,Yes,No Conflicting Rules
+1927000258,7381,Support,Yes,No Conflicting Rules
+1819100622,3250,Support,Yes,No Conflicting Rules
+1819100632,8210,Support,Yes,No Conflicting Rules
+1819100634,36202,Support,Yes,No Conflicting Rules
+1819100722,112072,Support,Yes,No Conflicting Rules
+1819100869,54586,Support,Yes,No Conflicting Rules
+1819100904,22588,Support,Yes,No Conflicting Rules
+1819100910,7729,Support,Yes,No Conflicting Rules
+1819100931,8299,Support,Yes,No Conflicting Rules
+1904000778,0,Support,Yes,No Conflicting Rules
+1904000813,23539926,Support,Yes,No Conflicting Rules
+1905000333,176,Support,Yes,No Conflicting Rules
+1907000531,114742,Support,Yes,No Conflicting Rules
+1907000589,237346,Support,Yes,No Conflicting Rules
+1907000595,559650,Support,Yes,No Conflicting Rules
+1919000451,2528064,Support,Yes,No Conflicting Rules
+1919000495,361080,Support,Yes,No Conflicting Rules
+1924000111,2604,Support,Yes,No Conflicting Rules
+1819100635,47378,Finance,Yes,No Conflicting Rules
+1819100813,202311,Finance,Yes,No Conflicting Rules
+1819100887,11245,Finance,Yes,No Conflicting Rules
+1819100911,263376,Finance,Yes,No Conflicting Rules
+1819100914,250330,Finance,Yes,No Conflicting Rules
+1819200046,10856,Finance,Yes,No Conflicting Rules
+1819200078,1400,Finance,Yes,No Conflicting Rules
+1819200098,30711,Finance,Yes,No Conflicting Rules
+1905000322,3060,Finance,Yes,No Conflicting Rules
+1907000486,10080,Finance,Yes,No Conflicting Rules
+1907000506,148708,Finance,Yes,No Conflicting Rules
+1907000550,9700,Finance,Yes,No Conflicting Rules
+1907000567,3693,Finance,Yes,No Conflicting Rules
+1907000572,1798,Finance,Yes,No Conflicting Rules
+1919000560,815380,Finance,Yes,No Conflicting Rules
+1919000561,63720,Finance,Yes,No Conflicting Rules
+1924000086,2262,Finance,Yes,No Conflicting Rules
+1924000100,348600,Finance,Yes,No Conflicting Rules
+1819100643,307146,Finance,No,"CRID002,CRID003"
+1819100654,148838,Finance,No,"CRID002,CRID003"
+1819100683,85788,Finance,No,"CRID002,CRID003"
+1819100806,148838,Finance,No,"CRID002,CRID003"
+1819100840,26104,Finance,No,"CRID002,CRID003"
+1819100918,127575,Finance,No,"CRID002,CRID003"
+1819200050,194937,Finance,No,"CRID002,CRID003"
+1819200094,10000,Finance,No,"CRID002,CRID003"
+1905000321,35604,Finance,No,"CRID002,CRID003"
+1919000496,4720,Finance,No,"CRID002,CRID003"
+1927000301,359,Finance,No,"CRID002,CRID003"
+1927000302,0,Finance,No,"CRID002,CRID003"
+1819100645,18404,Manufacturing,No,"CRID001,CRID002,CRID003"
+1819100706,133974,Manufacturing,No,"CRID001,CRID002,CRID003"
+1819100747,24897,Manufacturing,No,"CRID001,CRID002,CRID003"
+1819100755,291376,Manufacturing,No,"CRID001,CRID002,CRID003"
+1819100785,252630,Manufacturing,No,"CRID001,CRID002,CRID003"
+1819100872,28320,Manufacturing,No,"CRID001,CRID002,CRID003"
+1907000512,20329,Manufacturing,No,"CRID001,CRID002,CRID003"
+1907000537,32363,Manufacturing,No,"CRID001,CRID002,CRID003"
+1907000585,1043808,Manufacturing,No,"CRID001,CRID002,CRID003"
+1907000603,808276,Manufacturing,No,"CRID001,CRID002,CRID003"
+1919000514,0,Manufacturing,No,"CRID001,CRID002,CRID003"
+1927000282,1533,Manufacturing,No,"CRID001,CRID002,CRID003"
+1819100648,2340,HR,Yes,No Conflicting Rules
+1819100660,4928,HR,Yes,No Conflicting Rules
+1819100823,15458,HR,Yes,No Conflicting Rules
+1819100909,95580,HR,Yes,No Conflicting Rules
+1819100912,114561,HR,Yes,No Conflicting Rules
+1819200072,7500,HR,Yes,No Conflicting Rules
+1819200127,10902,HR,Yes,No Conflicting Rules
+1905000343,3676,HR,Yes,No Conflicting Rules
+1907000480,111826,HR,Yes,No Conflicting Rules
+1907000561,124,HR,Yes,No Conflicting Rules
+1907000573,2559,HR,Yes,No Conflicting Rules
+1907000587,134286,HR,Yes,No Conflicting Rules
+1907000596,967050,HR,Yes,No Conflicting Rules
+1927000324,778,HR,Yes,No Conflicting Rules
+1819100653,42525,Finance,Yes,No Conflicting Rules
+1819100692,167307,Finance,Yes,No Conflicting Rules
+1819100721,1652,Finance,Yes,No Conflicting Rules
+1819100745,208954,Finance,Yes,No Conflicting Rules
+1819100769,327450,Finance,Yes,No Conflicting Rules
+1819100791,31064,Finance,Yes,No Conflicting Rules
+1819100804,35973,Finance,Yes,No Conflicting Rules
+1819100828,2772,Finance,Yes,No Conflicting Rules
+1819100868,19232,Finance,Yes,No Conflicting Rules
+1819100932,74418,Finance,Yes,No Conflicting Rules
+1819100933,14396,Finance,Yes,No Conflicting Rules
+1819200071,19500,Finance,Yes,No Conflicting Rules
+1819200082,5220,Finance,Yes,No Conflicting Rules
+1819200088,1500,Finance,Yes,No Conflicting Rules
+1819200096,21063,Finance,Yes,No Conflicting Rules
+1904000816,0,Finance,Yes,No Conflicting Rules
+1905000337,120804,Finance,Yes,No Conflicting Rules
+1907000483,48649,Finance,Yes,No Conflicting Rules
+1907000511,20329,Finance,Yes,No Conflicting Rules
+1907000544,29215,Finance,Yes,No Conflicting Rules
+1907000579,43470,Finance,Yes,No Conflicting Rules
+1919000527,1100,Finance,Yes,No Conflicting Rules
+1927000278,579,Finance,Yes,No Conflicting Rules
+1927000295,87138,Finance,Yes,No Conflicting Rules
+1927000313,1423,Finance,Yes,No Conflicting Rules
+1819100663,10523,Manufacturing,Yes,No Conflicting Rules
+1819100730,19146,Manufacturing,Yes,No Conflicting Rules
+1819100890,636704,Manufacturing,Yes,No Conflicting Rules
+1819200065,4140,Manufacturing,Yes,No Conflicting Rules
+1819200116,69864,Manufacturing,Yes,No Conflicting Rules
+1905000286,43706,Manufacturing,Yes,No Conflicting Rules
+1907000477,281562,Manufacturing,Yes,No Conflicting Rules
+1907000489,41160,Manufacturing,Yes,No Conflicting Rules
+1907000517,658350,Manufacturing,Yes,No Conflicting Rules
+1919000501,348690,Manufacturing,Yes,No Conflicting Rules
+1919000522,17007,Manufacturing,Yes,No Conflicting Rules
+1919000535,23334,Manufacturing,Yes,No Conflicting Rules
+1924000087,1040760,Manufacturing,Yes,No Conflicting Rules
+1927000280,1620,Manufacturing,Yes,No Conflicting Rules
+1927000293,137301,Manufacturing,Yes,No Conflicting Rules
+1927000297,85932,Manufacturing,Yes,No Conflicting Rules
+1927000317,23940,Manufacturing,Yes,No Conflicting Rules
+1819100673,1239,Manufacturing,No,"CRID001,CRID002,CRID003"
+1819100715,32400,Manufacturing,No,"CRID001,CRID002,CRID003"
+1819100777,74277,Manufacturing,No,"CRID001,CRID002,CRID003"
+1819100833,128563,Manufacturing,No,"CRID001,CRID002,CRID003"
+1819100863,52239,Manufacturing,No,"CRID001,CRID002,CRID003"
+1819100880,54280,Manufacturing,No,"CRID001,CRID002,CRID003"
+1819100885,19175,Manufacturing,No,"CRID001,CRID002,CRID003"
+1819200121,4140,Manufacturing,No,"CRID001,CRID002,CRID003"
+1901000119,2250,Manufacturing,No,"CRID001,CRID002,CRID003"
+1904000814,8788430,Manufacturing,No,"CRID001,CRID002,CRID003"
+1907000478,144860,Manufacturing,No,"CRID001,CRID002,CRID003"
+1907000551,110,Manufacturing,No,"CRID001,CRID002,CRID003"
+1907000594,95289,Manufacturing,No,"CRID001,CRID002,CRID003"
+1919000433,5936,Manufacturing,No,"CRID001,CRID002,CRID003"
+1919000521,64,Manufacturing,No,"CRID001,CRID002,CRID003"
+1919000547,251517,Manufacturing,No,"CRID001,CRID002,CRID003"
+1927000285,4066,Manufacturing,No,"CRID001,CRID002,CRID003"
+1927000306,87138,Manufacturing,No,"CRID001,CRID002,CRID003"
+1927000333,114408,Manufacturing,No,"CRID001,CRID002,CRID003"
+1819100705,61181,Finance,Yes,No Conflicting Rules
+1819100771,1993488,Finance,Yes,No Conflicting Rules
+1819100817,127575,Finance,Yes,No Conflicting Rules
+1819100891,40697,Finance,Yes,No Conflicting Rules
+1819100930,8299,Finance,Yes,No Conflicting Rules
+1819100943,52239,Finance,Yes,No Conflicting Rules
+1819200123,2300,Finance,Yes,No Conflicting Rules
+1905000324,19560,Finance,Yes,No Conflicting Rules
+1905000340,3404,Finance,Yes,No Conflicting Rules
+1907000503,153,Finance,Yes,No Conflicting Rules
+1907000580,14040,Finance,Yes,No Conflicting Rules
+1919000432,6000,Finance,Yes,No Conflicting Rules
+1919000434,10233,Finance,Yes,No Conflicting Rules
+1919000524,154053,Finance,Yes,No Conflicting Rules
+1919000552,1428,Finance,Yes,No Conflicting Rules
+1924000103,138351,Finance,Yes,No Conflicting Rules
+1927000298,1066530,Finance,Yes,No Conflicting Rules
+1819100711,11800,Finance,No,CRID003
+1819100750,6239,Finance,No,CRID003
+1819100753,5862,Finance,No,CRID003
+1819100810,87440,Finance,No,CRID003
+1819100851,8745,Finance,No,CRID003
+1819100883,79756,Finance,No,CRID003
+1819100940,144954,Finance,No,CRID003
+1819200133,705,Finance,No,CRID003
+1904000780,3075132,Finance,No,CRID003
+1905000335,14472,Finance,No,CRID003
+1905000342,702490,Finance,No,CRID003
+1907000566,3109163,Finance,No,CRID003
+1919000435,6300,Finance,No,CRID003
+1924000091,723,Finance,No,CRID003
+1927000304,0,Finance,No,CRID003
+1927000319,19641,Finance,No,CRID003
+1819100738,9324,Manufacturing,No,Read-Only
+1819100780,6402,Manufacturing,No,Read-Only
+1819100821,229084,Manufacturing,No,Read-Only
+1819100860,7965,Manufacturing,No,Read-Only
+1819100878,248640,Manufacturing,No,Read-Only
+1819200089,60900,Manufacturing,No,Read-Only
+1819200109,68931,Manufacturing,No,Read-Only
+1903000058,1269,Manufacturing,No,Read-Only
+1905000303,14472,Manufacturing,No,Read-Only
+1905000305,15210,Manufacturing,No,Read-Only
+1905000326,2988,Manufacturing,No,Read-Only
+1907000499,4896,Manufacturing,No,Read-Only
+1907000523,464304,Manufacturing,No,Read-Only
+1919000431,2320,Manufacturing,No,Read-Only
+1919000445,86386,Manufacturing,No,Read-Only
+1919000539,50400,Manufacturing,No,Read-Only
+1927000339,59,Manufacturing,No,Read-Only
+1819100761,2301,Warehouse,Yes,No Conflicting Rules
+1819100790,95004,Warehouse,Yes,No Conflicting Rules
+1819100919,248850,Warehouse,Yes,No Conflicting Rules
+1819100922,148838,Warehouse,Yes,No Conflicting Rules
+1819100925,106313,Warehouse,Yes,No Conflicting Rules
+1819100938,127890,Warehouse,Yes,No Conflicting Rules
+1819200077,8592,Warehouse,Yes,No Conflicting Rules
+1904000772,4100,Warehouse,Yes,No Conflicting Rules
+1905000293,4896,Warehouse,Yes,No Conflicting Rules
+1907000569,115628,Warehouse,Yes,No Conflicting Rules
+1919000444,257433,Warehouse,Yes,No Conflicting Rules
+1919000542,139240,Warehouse,Yes,No Conflicting Rules
+1927000262,1786,Warehouse,Yes,No Conflicting Rules
+1927000272,90705,Warehouse,Yes,No Conflicting Rules
+1927000274,86386,Warehouse,Yes,No Conflicting Rules
+1927000281,3478,Warehouse,Yes,No Conflicting Rules
+1927000326,5964,Warehouse,Yes,No Conflicting Rules
+1927000331,21158,Warehouse,Yes,No Conflicting Rules
+1819100857,834920,Warehouse,No,"CRID002,CRID003"
+1819100879,148838,Warehouse,No,"CRID002,CRID003"
+1819100942,111805,Warehouse,No,"CRID002,CRID003"
+1819200059,3900,Warehouse,No,"CRID002,CRID003"
+1905000283,12124,Warehouse,No,"CRID002,CRID003"
+1907000559,729,Warehouse,No,"CRID002,CRID003"
+1919000503,17850,Warehouse,No,"CRID002,CRID003"
+1919000509,208152,Warehouse,No,"CRID002,CRID003"
+1919000511,14288,Warehouse,No,"CRID002,CRID003"
+1927000343,46104,Warehouse,No,"CRID002,CRID003"
+1819200073,14160,Manufacturing,Yes,No Conflicting Rules
+1819200112,16500,Manufacturing,Yes,No Conflicting Rules
+1904000804,574950,Manufacturing,Yes,No Conflicting Rules
+1905000277,4440,Manufacturing,Yes,No Conflicting Rules
+1905000292,1224,Manufacturing,Yes,No Conflicting Rules
+1907000507,3113262,Manufacturing,Yes,No Conflicting Rules
+1919000513,1740,Manufacturing,Yes,No Conflicting Rules
+1919000546,107970,Manufacturing,Yes,No Conflicting Rules
+1924000096,14278,Manufacturing,Yes,No Conflicting Rules
+1905000284,168000,Warehouse,Yes,No Conflicting Rules
+1907000529,1683360,Warehouse,Yes,No Conflicting Rules
+1907000549,293230,Warehouse,Yes,No Conflicting Rules
+1907000571,12452,Warehouse,Yes,No Conflicting Rules
+1919000448,577728,Warehouse,Yes,No Conflicting Rules
+1919000455,20532,Warehouse,Yes,No Conflicting Rules
+1907000608,864360,Support,Yes,No Conflicting Rules
+1919000438,171336,Support,Yes,No Conflicting Rules
+1919000449,90860,Support,Yes,No Conflicting Rules
+1919000484,186720,Support,Yes,No Conflicting Rules
+1919000528,3248,Support,Yes,No Conflicting Rules
+1927000292,4491,Support,Yes,No Conflicting Rules
+1927000329,1884000,Support,Yes,No Conflicting Rules
+1919000478,289,HR,No,Read-Only
+1919000499,120360,HR,No,Read-Only
+1924000105,1707,HR,No,Read-Only
+1927000344,102984,HR,No,Read-Only
+1919000526,308,Manufacturing,No,CRID001
+1919000537,8625,Manufacturing,No,CRID001
+1927000288,18480,Manufacturing,No,CRID001
+1927000328,44755,Manufacturing,No,CRID001
+1927000277,6705,Manufacturing,No,Read-Only
+1927000346,146,Manufacturing,No,Read-Only
